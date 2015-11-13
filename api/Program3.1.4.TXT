@@ -1,0 +1,1 @@
+Check out adding of new files on an feature branch.
