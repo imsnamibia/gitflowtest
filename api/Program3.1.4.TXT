@@ -1,1 +1,2 @@
 Check out adding of new files on an feature branch.
+Extra changes made before release to ensure bug fixing.
